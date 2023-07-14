@@ -18,7 +18,7 @@ img{
 }
 .carrossel li{
     position:relative;
-    animation:slide 200s infinite ease-in-out
+    animation:slide 100s infinite ease-in-out
 }
 @keyframes slide
 {0%{left:0}20%{left:0}
