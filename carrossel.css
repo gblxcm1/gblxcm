@@ -21,13 +21,13 @@ img{
     animation:slide 100s infinite ease-in-out
 }
 @keyframes slide
-{0%{left:0}20%{left:0}
-30%{left:-100vw}50%{left:-100vw}
-60%{left:-200vw}80%{left:-200vw}
-90%{left:-300vw}120%{left:-300vw}
-130%{left:-400vw}160%{left:-400vw}
-170%{left:-500vw}190%{left:-500vw}
-180%{left:-600vw}200%{left:-600vw}
-210%{left:-700vw}230%{left:-700vw}
-240%{left:-800vw}260%{left:-800vw}
-270%{left:-900vw}290%{left:-900vw}}
+{0%{left:0}10%{left:0}
+11%{left:-100vw}20%{left:-100vw}
+21%{left:-200vw}30%{left:-200vw}
+31%{left:-300vw}40%{left:-300vw}
+41%{left:-400vw}50%{left:-400vw}
+51%{left:-500vw}60%{left:-500vw}
+61%{left:-600vw}70%{left:-600vw}
+71%{left:-700vw}80%{left:-700vw}
+81%{left:-800vw}90%{left:-800vw}
+91%{left:-900vw}100%{left:-900vw}}
