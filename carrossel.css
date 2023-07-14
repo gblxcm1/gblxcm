@@ -13,12 +13,21 @@ img{
 .carrossel ul{
     display:flex;
     list-style:none;
-    width:300vw;
+    width:900vw;
     height:100vh
 }
 .carrossel li{
     position:relative;
-    animation:slide 20s infinite ease-in-out
+    animation:slide 100s infinite ease-in-out
 }
 @keyframes slide
-{0%{left:0}20%{left:0}30%{left:-100vw}50%{left:-100vw}70%{left:-200vw}80%{left:-200vw}}
+{0%{left:0}10%{left:0}
+10%{left:-100vw}20%{left:-100vw}
+20%{left:-200vw}30%{left:-200vw}
+30%{left:-300vw}40%{left:-300vw}
+40%{left:-400vw}50%{left:-400vw}
+50%{left:-500vw}60%{left:-500vw}
+60%{left:-600vw}70%{left:-600vw}
+70%{left:-700vw}80%{left:-700vw}
+80%{left:-800vw}90%{left:-800vw}
+90%{left:-900vw}100%{left:-900vw}}
